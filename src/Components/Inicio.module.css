@@ -1,0 +1,12 @@
+/*Coloquei apenas um estilo para que a mensagem de boas vindas fique centralizada e uma fonte adequada. */
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.texto{
+    font-size: 32px;
+    font-family: sans-serif;
+}
