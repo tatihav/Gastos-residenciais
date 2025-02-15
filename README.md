@@ -25,5 +25,6 @@ Funcionalidades:
 O sistema possui botões que permitem alternar entre telas de cadastro de pessoas, cadastro de transações e consulta de totais;
 Apenas a tela selecionada é exibida.
 
-Está hospedado no GitHub no link: https://github.com/tatihav/Gastos-residenciais
+ https://github.com/tatihav/Gastos-residenciais  
+ Está hospedado no GitHub link acima.
 
