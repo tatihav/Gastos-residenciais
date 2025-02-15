@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gastos-residenciais/static/css/main.392c2ea0.css",
-    "main.js": "/gastos-residenciais/static/js/main.722c6b00.js",
-    "index.html": "/gastos-residenciais/index.html",
-    "main.392c2ea0.css.map": "/gastos-residenciais/static/css/main.392c2ea0.css.map",
-    "main.722c6b00.js.map": "/gastos-residenciais/static/js/main.722c6b00.js.map"
+    "main.css": "/Gastos-residenciais/static/css/main.392c2ea0.css",
+    "main.js": "/Gastos-residenciais/static/js/main.722c6b00.js",
+    "index.html": "/Gastos-residenciais/index.html",
+    "main.392c2ea0.css.map": "/Gastos-residenciais/static/css/main.392c2ea0.css.map",
+    "main.722c6b00.js.map": "/Gastos-residenciais/static/js/main.722c6b00.js.map"
   },
   "entrypoints": [
     "static/css/main.392c2ea0.css",
