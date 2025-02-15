@@ -1,7 +1,7 @@
 {
   "name": "gastos_residenciais",
   "version": "0.1.0",
-  "homepage": "https://seu-usuario.github.io/gastos-residenciais",
+  "homepage": "https://tatihav.github.io/Gastos-residenciais/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
